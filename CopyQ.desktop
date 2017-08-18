@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=CopyQ
+GenericName=CopyQ
+Comment=Clipboard Manager with Advanced Features
+Exec=/usr/local/bin/copyq
+Terminal=false
+Icon=/usr/local/share/icons/hicolor/scalable/apps/copyq-normal.svg
+Type=Application
+Categories=Clipboard
